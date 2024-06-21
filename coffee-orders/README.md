@@ -1,7 +1,7 @@
 # Coffee Orders Project
 
 **Tools:** Microsoft Excel  
-**Functions Used:** XLOOKUP, IF, INDEX, MATCH  
+**Functions Used:** XLOOKUP, IF, INDEX MATCH  
 
 [Original Data](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)
 

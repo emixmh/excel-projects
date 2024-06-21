@@ -77,6 +77,8 @@ Pivot tables were used to aggreate data for charts, a timeline, and slicers that
 
 Sales data was formated as currency without symbol and decimals `000` to avoid visual clutter.
 
+Customer Names were limited to top 5 highest purchasers.
+
 ![image](./images/static-pivot-tables.png)
 
 ## Dashboard

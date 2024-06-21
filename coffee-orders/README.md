@@ -75,6 +75,8 @@ Static preview of all tables.
 ## Pivot Tables
 Pivot tables were used to aggreate data for charts, a timeline, and slicers that would be used in the dashboard.
 
+Sales data was formated as currency without symbol and decimals `000` to avoid visual clutter.
+
 ![image](./images/static-pivot-tables.png)
 
 ## Dashboard

@@ -31,7 +31,7 @@ Static preview of data.
 ## Pivot Tables
 Pivot tables were used to aggreate data for charts and slicers that would be used in the dashboard.
 
-Tables aggregating Age Range and Commute Distance totals requirec manual sort order.
+Tables aggregating Age Range and Commute Distance totals required manual sort order.
 
 ![image](./images/static-pivot-tables.png)
 
